@@ -15,6 +15,6 @@ RFM analysis is a model for segmenting customers based on three parameters that 
 
 **Monetary:** How much money a customer spends on purchases.
 
-## Data sets:
-online_retail_II.xlsx: The data set includes the sales of a UK-based online store between 01/12/2009 - 09/12/2011. 
+## Datasets:
+online_retail_II.xlsx: The dataset includes the sales of a UK-based online store between 01/12/2009 - 09/12/2011. 
 The product catalog of this company is mostly souvenirs. It can also be considered as promotional products.
